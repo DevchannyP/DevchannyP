@@ -5,10 +5,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-green?style=for-the-badge&logo=spring" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20JSP-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/AI-GPT%20%7C%20Whisper%20%7C%20Langchain-orange?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/SQL-MySQL%20%7C%20QueryDSL-yellow?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20QueryDSL%20%7C%20SQL-yellow?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Infra-Docker%20%7C%20AWS-lightgrey?style=for-the-badge&logo=docker" />
 </p>
+
 
 ---
 
