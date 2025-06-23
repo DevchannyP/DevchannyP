@@ -21,11 +21,6 @@
 
 ### 📦 Projects
 
-#### 🛍️ [AutoMall: 쇼핑몰 자동화 시스템](https://github.com/username/automall)
-- 직접 경험한 쇼핑몰 운영 문제를 기반으로 제작
-- 상품 등록, 재고 관리, 주문 내역 처리 자동화
-- `Spring Boot + MySQL + JPA + Scheduler` 기반 구현
-
 #### 🧠 [RedditShorts: AI 영상 자동화 시스템](https://github.com/username/reddit-shorts)
 - Reddit에서 영상 수집 → Whisper STT → GPT 요약 → 자막 생성 → 영상 편집까지 자동화
 - `Python + Whisper + ffmpeg + ChatGPT API` 사용
