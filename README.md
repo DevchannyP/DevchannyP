@@ -38,19 +38,19 @@
 
 ## 🔥 Representative Projects
 
-### 🧠 [RedditShorts: AI 영상 자동화 시스템](https://github.com/username/reddit-shorts)
-> **Reddit → Whisper STT → GPT 요약 → 자막 → 영상 편집까지 완전 자동화**
-- `Python`, `Whisper`, `GPT`, `ffmpeg` 기반 AI 자동화
-- 실시간 Reddit 콘텐츠 → 영상 콘텐츠 변환 파이프라인
-- **ChatGPT Prompt Engineering & 비동기 병렬 처리 자동화**
-
----
-
 ### 🗳️ [지방청년 플랫폼](https://github.com/username/jibangyoung-platform) <진행중>
 > **정책 추천 + 커뮤니티 + 지역 기반 설문 서비스**
 - `Spring Boot`, `Next.js App Router`, `OAuth2`, `JWT`, `Elasticsearch`
 - 모듈형 모놀리식 구조 기반 설계 (Domain → Application → UI Layer)
 - 지역청년을 위한 실질적인 사회서비스 자동화 플랫폼 구축
+
+---
+
+### 🧠 [RedditShorts: AI 영상 자동화 시스템](https://github.com/username/reddit-shorts)
+> **Reddit → Whisper STT → GPT 요약 → 자막 → 영상 편집까지 완전 자동화**
+- `Python`, `Whisper`, `GPT`, `ffmpeg` 기반 AI 자동화
+- 실시간 Reddit 콘텐츠 → 영상 콘텐츠 변환 파이프라인
+- **ChatGPT Prompt Engineering & 비동기 병렬 처리 자동화**
 
 ---
 
