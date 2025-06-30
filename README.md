@@ -51,7 +51,7 @@
 - `JSP`, `Servlet`, `JSTL`, `JDBC`, `MySQL`
 - 요구사항 정의 → ERD 설계 → 화면설계서 → 기능 구현 → 발표자료까지 전체 산출물 구성
 - 팀 협업 기반 실무형 웹 시스템 개발 프로젝트
-- **프로젝트 시연 영상 링크**: (https://www.youtube.com/watch?v=dD76U35wdmM)
+- **프로젝트 시연 영상 링크**: [🔗 바로가기](https://www.youtube.com/watch?v=dD76U35wdmM)
 - **실제 깃허브 링크**: [🔗 바로가기](https://github.com/DevchannyP/gda_jsp_project/tree/main)
 
 👥 **주요 역할**
