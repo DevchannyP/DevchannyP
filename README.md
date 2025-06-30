@@ -54,6 +54,15 @@
 
 ---
 
+### 🎮 [Code Typer King: JavaScript 타자 게임](https://github.com/DevchannyP/javascript-typing-master)
+> **JS 문법을 손으로 입력하며 익히는 실습형 학습 게임**
+- `Vanilla JS`, `HTML/CSS`, `Web Audio API`, `DOM`, `애니메이션`
+- 공부 모드 / 게임 모드 분기, 정답 피드백, 코드 개념 강조 기능
+- 난이도/속도 조절, 반응형 UI, 배경음/효과음 포함
+- **실제 플레이 링크**: [🔗 바로가기](https://devchannyp-github-io.pages.dev/project/personal/CHAP-01-personal/)
+
+---
+
 ## 🧾 Certificates
 
 | 분야 | 자격증 |
