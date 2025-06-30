@@ -43,6 +43,8 @@
 - `Spring Boot`, `Next.js App Router`, `OAuth2`, `JWT`, `Elasticsearch`
 - 모듈형 모놀리식 구조 기반 설계 (Domain → Application → UI Layer)
 - 지역청년을 위한 실질적인 사회서비스 자동화 플랫폼 구축
+- 
+---
 
 ### 🧑‍🏫 [GDA JSP 프로젝트](https://github.com/DevchannyP/gda_jsp_project)
 > **JSP 기반 교육 플랫폼 + 프로젝트 매칭 + 멘토링 기능 통합 시스템**
@@ -52,9 +54,8 @@
 - **실제 깃허브 링크**: [🔗 바로가기](https://github.com/DevchannyP/gda_jsp_project/tree/main)
 
 👥 **주요 역할**
-- **기획 & 개발**: ERD 설계, 전체 기능 정의 및 구현 (강의/결제/멘토링 등)
+- **기획 & 개발**: 화면 설계, ERD 설계, 전체 기능 정의 및 구현 (강의/결제/멘토링 등)
 - **팀 구성**: 프론트 JSP, 백엔드 JSP, 기획/기능 구현 분업
-> 📌 JSP 프로젝트에서 실무처럼 UI 설계, 데이터 설계, 발표문서까지 통합한 완성형 협업 프로젝트
 
 ---
 
