@@ -59,7 +59,7 @@
 
 ---
 
-### 🧠 [RedditShorts: AI 영상 자동화 시스템](https://github.com/username/reddit-shorts)
+### 🧠 [RedditShorts: AI 영상 자동화 시스템](https://github.com/username/reddit-shorts) <진행중>
 > **Reddit → Whisper STT → GPT 요약 → 자막 → 영상 편집까지 완전 자동화**
 - `Python`, `Whisper`, `GPT`, `ffmpeg` 기반 AI 자동화
 - 실시간 Reddit 콘텐츠 → 영상 콘텐츠 변환 파이프라인
