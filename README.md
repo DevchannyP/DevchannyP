@@ -37,7 +37,7 @@
 
 ## 🔥 Representative Projects
 
-### 🗳️ [지방청년 플랫폼](https://github.com/username/jibangyoung-platform) <진행중>
+### 🗳️ [지방청년 플랫폼](https://github.com/DevchannyP/JIBANGYOUNG) <진행중>
 > **정책 추천 + 커뮤니티 + 지역 기반 설문 서비스**
 - `Spring Boot`, `Next.js App Router`, `OAuth2`, `JWT`
 - 모듈형 모놀리식 구조 기반 설계 (Domain → Application → UI Layer)
