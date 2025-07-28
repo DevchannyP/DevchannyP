@@ -45,6 +45,15 @@
 
 ---
 
+### 🏗️ [Modular Monolith Fullstack Template](https://github.com/DevchannyP/MONO-MODULITH)
+> **Spring Boot + Next.js 기반 모듈형 모노리식 템플릿, DDD, CI/CD, 코드리뷰 내장**
+- **도메인 중심(DDD) 설계** / MSA 전환 용이한 구조  
+- **폴더/네이밍 규칙 통일**, 실전 협업/확장 최적화  
+- **PR 코드리뷰, GitHub Actions 기반 자동화/테스트** 내장  
+- **CI/CD 및 환경별 배포 템플릿, Convention 기반 코드 품질 관리**
+
+---
+
 ### 🧑‍🏫 [GDA JSP 프로젝트](https://github.com/DevchannyP/gda_jsp_project)
 > **JSP 기반 교육 플랫폼 + 프로젝트 매칭 + 멘토링 기능 통합 시스템**
 - `JSP`, `Servlet`, `JSTL`, `JDBC`, `MySQL`
