@@ -60,11 +60,14 @@
 
 ---
 
-### 🧠 [RedditShorts: AI 영상 자동화 시스템](https://github.com/username/reddit-shorts) <진행중>
-> **Reddit → Whisper STT → GPT 요약 → 자막 → 영상 편집까지 완전 자동화**
-- `Python`, `Whisper`, `GPT`, `ffmpeg` 기반 AI 자동화
-- 실시간 Reddit 콘텐츠 → 영상 콘텐츠 변환 파이프라인
-- **ChatGPT Prompt Engineering & 비동기 병렬 처리 자동화**
+### 🧠 [RedditShorts: AI 영상 자동화 시스템](https://github.com/DevchannyP/redis-crawler)
+> **Reddit 인기 영상 → Whisper 자막(STT) → TTS 음성 → FFmpeg 편집까지 완전 자동 생성**
+- `Java`, `Python`, `Whisper`, `Google TTS`, `FFmpeg` 기반 AI 자동화 파이프라인
+- 실시간 Reddit 콘텐츠 → 자막, 음성, 편집이 포함된 쇼츠(Shorts) 영상 완전 자동 변환
+- ChatGPT Prompt Engineering, 비동기 처리, 폴더 기반 파이프라인 설계
+- **코드 비공개: Reddit API 인증, Whisper 로컬 STT, Google TTS API 사용 포함**
+
+요청하시면 GPT 요약까지 포함한 버전도 별도로 제공해드릴 수 있어요.
 
 ---
 
