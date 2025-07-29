@@ -127,9 +127,20 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanhee-dev&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhee-dev&layout=compact&theme=tokyonight" height="150"/>
+  <!-- GitHub 통계 카드 -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DevchannyP&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true"
+    height="160"
+    alt="Devchanny GitHub Stats"
+  />
+  <!-- 언어 사용 통계 카드 -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevchannyP&layout=compact&theme=tokyonight&hide_title=true&langs_count=6"
+    height="160"
+    alt="Devchanny Most Used Languages"
+  />
 </p>
+
 
 ---
 
