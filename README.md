@@ -37,12 +37,13 @@
 
 ## 🔥 Representative Projects
 
-### 🗳️ [지방청년 플랫폼](https://github.com/DevchannyP/JIBANGYOUNG) <진행중>
+### 🗳️ [지방청년 플랫폼](https://github.com/DevchannyP/JIBANGYOUNG)
 > **정책 추천 + 커뮤니티 + 지역 기반 설문 서비스**
 - `Spring Boot`, `Next.js App Router`, `OAuth2`, `JWT`
 - 모듈형 모놀리식 구조 기반 설계 (Domain → Application → UI Layer)
 - 지역청년을 위한 실질적인 사회서비스 자동화 플랫폼 구축
-
+- **프로젝트 시연 영상 링크**: [🔗 바로가기](https://www.youtube.com/watch?v=b-ahpxBXyRU)
+- **실제 깃허브 링크**: [🔗 바로가기](https://github.com/DevchannyP/JIBANGYOUNG)
 ---
 
 ### 🏗️ [Modular Monolith Fullstack Template](https://github.com/DevchannyP/MONO-MODULITH)
